@@ -39,7 +39,7 @@ Remember, building a website is an ongoing process. Continuously update and impr
 **_Remember to regularly update your website with new content, menu updates, and promotions to keep your visitors engaged and informed about your sushi restaurant._**
 
 ## IMAGES
-![Uploading 1.png…]()
+![1](https://github.com/ElifKir/Hospital-/assets/75785258/cbb6f502-ae83-4e98-9662-43b3205041c3)
 
 <img width="2544" alt="3" src="https://github.com/ElifKir/Hospital-/assets/75785258/2ba9cda6-45c7-4257-9ed7-f5df4f842f3b">
 
