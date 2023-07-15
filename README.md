@@ -1,10 +1,11 @@
-# Hospital-
+# Hospital
 Designing a hospital website using Wordpress
 
 # Hospital-Website
 To create a hospital website using WordPress, you can follow these steps:
 
-### Choose a domain name and web hosting: Select a domain name for your website (e.g., www.yourhospitalname.com) and choose a reliable web hosting provider to store your website files and make them accessible online.
+### Choose a domain name and web hosting: 
+Select a domain name for your website (e.g., www.yourhospitalname.com) and choose a reliable web hosting provider to store your website files and make them accessible online.
 
 ### Install WordPress: Most web hosting providers offer a one-click WordPress installation option. Log in to your web hosting account, locate the WordPress installer, and follow the instructions to set up WordPress on your domain.
 
